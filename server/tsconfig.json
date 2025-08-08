@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    // ... other options ...
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "module": "commonjs",
+    "target": "ES2020",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "skipLibCheck": true
+  }
+}
